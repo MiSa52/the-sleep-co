@@ -26,12 +26,12 @@ body {
     background-color:#192B37;
     color: white;}
 
-.tall-50 {min-height: 50vh;}
-.tall-60 {min-height: 60vh;}
-.tall-70 {min-height: 70vh;}
-.tall-80 {min-height: 80vh;}
-.tall-90 {min-height: 90vh;}
-.tall-100 {min-height: 100vh;}
+.tall-50    {min-height: 50vh;}
+.tall-60    {min-height: 60vh;}
+.tall-70    {min-height: 70vh;}
+.tall-80    {min-height: 80vh;}
+.tall-90    {min-height: 90vh;}
+.tall-100   {min-height: 100vh;}
 
 /*Typogrohy Style */
 
